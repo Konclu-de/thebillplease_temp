@@ -5,6 +5,7 @@
         <title>TheBillPlease - We develop web applcations</title>
         
         <meta name="description" content="TheBillPlease - We develop web applcations. Our website is not quite ready.">
+        <meta name="viewport" content="width=device-width">
 
         <link rel="shortcut icon" href="img/favicon.ico">
         <link rel="stylesheet" href="css/styles.css">
